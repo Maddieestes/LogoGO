@@ -8,6 +8,12 @@ Node.js
 Jest
 SVG
 
+Usage:
+Open index.js in the integrated terminal
+Type node index.js into the terminal
+Answer the questions
+Then your Logo will be generated
+
 Deployed App:
 [Untitled_ Jul 20, 2023 7_21 PM.webm](https://github.com/Maddieestes/LogoGO/assets/129248476/0711b86e-2b11-4728-980f-6b2e155d71ec)
 
